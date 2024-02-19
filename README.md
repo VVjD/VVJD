@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**<img src="https://img.shields.io/badge/eclipseide-blue?style=flat&logo=eclipseide&logoColor=#2C2255"/>
-**
+<img src="https://img.shields.io/badge/eclipseide-blue?style=flat&logo=eclipseide&logoColor=#2C2255"/>
