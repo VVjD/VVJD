@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=flat-square&logo=eclipseide&logoColor=%232C2255"></a>&nbsp   
+  <img src="https://img.shields.io/badge/:badgeContent?style=flat-square&logo=eclipseide&logoColor=%232C2255"></a>&nbsp   
   
 
