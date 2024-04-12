@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img alt="Static Badge" src="https://img.shields.io/badge/eclipseide?style=flat-square&logo=eclipseide&logoColor=white&labelColor=%232C2255">
+  ![Static Badge](https://img.shields.io/badge/eclipseide?style=flat-square&logo=eclipseide&logoColor=%232C2255)
   <img src="https://img.shields.io/badge/:badgeContent?style=flat-square&logo=eclipseide&logoColor=%232C2255"></a>&nbsp   
 </p>
 
