@@ -41,8 +41,14 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
+
+![VVjD's github stats](https://github.com/VVjD/github-stats-transparent/blob/output/generated/languages.svg)
+![Top Langs](https://github.com/VVjD/github-stats-transparent/blob/output/generated/overview.svg)
+    </div>
+        <!--
         <div align= "center"> 
             <img src="https://github-readme-stats.vercel.app/api?username=VVjD&layout=donut&theme=buefy"/> 
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VVjD&layout=donut&theme=buefy"/>
         </div> 
-    </div>
+        -->
+
