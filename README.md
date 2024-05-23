@@ -1,6 +1,6 @@
 <!-- Title 타이틀-->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&customColorList=15&text=Welcome&fontAlign=50&descAlign=60&descAlignY=70&desc=VVjD's%20Github&fontColor=AB8EC5&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=gradient&customColorList=15&text=Welcome&fontAlign=50&descAlign=60&descAlignY=70&desc=VVjD's%20Github&fontColor=AB8EC5&animation=fadeIn" />
 </div>
 
 
@@ -19,7 +19,7 @@
 
 
 <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
+    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h3> 
     <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -41,7 +41,7 @@
 </div>
 
 <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🤝🏻 Contact me </h2> <br> 
+    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🤝🏻 Contact me </h3> <br> 
     <div align= "center"> <a href=mailto:j26725053@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:j26725053@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
